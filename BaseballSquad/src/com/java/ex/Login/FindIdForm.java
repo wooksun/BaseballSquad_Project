@@ -20,7 +20,7 @@ public class FindIdForm extends JFrame{ //extends=외부 객체를 사용하는 
 	   public FindIdForm() {
 	      setTitle("아이디/비밀번호 찾기");
 	      setSize(285, 185);
-	      setResizable(false);
+	      setResizable(false); 
 	      setLocation(800, 200);
 	      
 	      JPanel panel = new JPanel();
