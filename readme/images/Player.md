@@ -1,4 +1,4 @@
-# Project_BaseballSquad | 야구 스쿼드 메이커 - 선수 관 관련
+# Project_BaseballSquad | 야구 스쿼드 메이커 - 선수 관련
 
 선수 관리와 관련된 항목에 대한 설명 및 구동입니다.  
 
