@@ -44,7 +44,7 @@
 ID 또는 PW 를 분실했을 경우 ID 찾기 · PW 찾기 기능을 통해 분실된 ID와 PW 를 찾을 수 있습니다.   
 
 로그인 관련 각 항목에 대한 자세한 설명은 다음 링크에서 확인 가능합니다.  
-<a href="" target="_blank">로그인 관련 설명 및 구동</a>
+<a href="https://github.com/wooksun/Project_BaseballSquad/blob/master/readme/images/Login.md" target="_blank">로그인 관련 설명 및 구동</a>
 <br/>
 
 ### 메인
