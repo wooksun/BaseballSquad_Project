@@ -86,17 +86,5 @@ KBO 10개 구단 중 한 팀인 '키움'이라는 팀로고와 선수 관리 · 
 전술 초기화 버튼을 통해 모든 항목을 초기화하여 아무것도 선택되지 않은 상태로 되돌릴 수 있습니다.
 
 스쿼드 관리의 각 항목에 대한 자세한 설명은 다음 링크에서 확인 가능합니다.  
-<a href="" target="_blank">스쿼드 관리 설명 및 구동</a>
+<a href="https://github.com/wooksun/Project_BaseballSquad/blob/master/readme/images/squad.md" target="_blank">스쿼드 관리 설명 및 구동</a>
 <br/>
-
-
-
-
-
-
-
-
-
-
-
-
