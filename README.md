@@ -69,7 +69,7 @@ KBO 10개 구단 중 한 팀인 '키움'이라는 팀로고와 선수 관리 · 
 <br/>
 
 선수 관리의 각 항목에 대한 자세한 설명은 다음 링크에서 확인 가능합니다.  
-<a href="" target="_blank">선수 관리 설명 및 구동</a>
+<a href="https://github.com/wooksun/Project_BaseballSquad/blob/master/readme/images/Player.md" target="_blank">선수 관리 설명 및 구동</a>
 <br/>
 
 ### 스쿼드 관리
