@@ -6,11 +6,11 @@
 
 ### 선수 추가
 <div>
-  <img src="./add_player.png"/>
+  <img src="./images/add_player.png"/>
 </div>
 <br />
 <div>
-  <img src="./add_player.gif"/>
+  <img src="./images/add_player.gif"/>
 </div>
 <br />
 
@@ -25,11 +25,11 @@
 
 ### 선수 수정
 <div>
-  <img src="./amend_player.png"/>
+  <img src="./images/amend_player.png"/>
 </div>
 <br />
 <div>
-  <img src="./amend_player.gif"/>
+  <img src="./images/amend_player.gif"/>
 </div>
 <br />
 
@@ -42,11 +42,11 @@
 
 ### 선수 삭제
 <div>
-  <img src="./delete_player.png"/>
+  <img src="./images/delete_player.png"/>
 </div>
 <br />
 <div>
-  <img src="./delete_player.gif"/>
+  <img src="./images/delete_player.gif"/>
 </div>
 <br />
 
