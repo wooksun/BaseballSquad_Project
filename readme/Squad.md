@@ -6,13 +6,13 @@
 
 ### 전술 추가
 <div>
-  <img src="./squad_management.png"/>
+  <img src="./images/squad_management.png"/>
 </div>
 <br />
 ※ 영상 시간을 고려하여 타선 설정과 교체 설정은 미리 지정한 채로 영상을 녹화한 점 양해 부탁드립니다. ※
 <br/>
 <div>
-  <img src="./add_squad.gif"/>
+  <img src="./images/add_squad.gif"/>
 </div>
 <br />
 
@@ -25,7 +25,7 @@
 
 ### 전술 불러오기
 <div>
-  <img src="./bring_squad.gif"/>
+  <img src="./images/bring_squad.gif"/>
 </div>
 <br />
 
@@ -37,7 +37,7 @@
 
 ### 전술 수정
 <div>
-  <img src="./amend_squad.gif"/>
+  <img src="./images/amend_squad.gif"/>
 </div>
 <br />
 
@@ -49,7 +49,7 @@
 
 ### 전술 삭제
 <div>
-  <img src="./delete_squad.gif"/>
+  <img src="./images/delete_squad.gif"/>
 </div>
 <br />
 
@@ -58,7 +58,7 @@
 
 ### 전술 초기화
 <div>
-  <img src="./reset_squad.gif"/>
+  <img src="./images/reset_squad.gif"/>
 </div>
 <br />
 
