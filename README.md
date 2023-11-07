@@ -44,7 +44,7 @@
 ID 또는 PW 를 분실했을 경우 ID 찾기 · PW 찾기 기능을 통해 분실된 ID와 PW 를 찾을 수 있습니다.   
 
 로그인 관련 각 항목에 대한 자세한 설명은 다음 링크에서 확인 가능합니다.  
-<a href="https://github.com/wooksun/Project_BaseballSquad/blob/master/readme/images/Login.md" target="_blank">로그인 관련 설명 및 구동</a>
+<a href="https://github.com/wooksun/Project_BaseballSquad/blob/master/readme/Login.md" target="_blank">로그인 관련 설명 및 구동</a>
 <br/>
 
 ### 메인
@@ -69,7 +69,7 @@ KBO 10개 구단 중 한 팀인 '키움'이라는 팀로고와 선수 관리 · 
 <br/>
 
 선수 관리의 각 항목에 대한 자세한 설명은 다음 링크에서 확인 가능합니다.  
-<a href="https://github.com/wooksun/Project_BaseballSquad/blob/master/readme/images/Player.md" target="_blank">선수 관리 설명 및 구동</a>
+<a href="https://github.com/wooksun/Project_BaseballSquad/blob/master/readme/Player.md" target="_blank">선수 관리 설명 및 구동</a>
 <br/>
 
 ### 스쿼드 관리
@@ -86,5 +86,5 @@ KBO 10개 구단 중 한 팀인 '키움'이라는 팀로고와 선수 관리 · 
 전술 초기화 버튼을 통해 모든 항목을 초기화하여 아무것도 선택되지 않은 상태로 되돌릴 수 있습니다.
 
 스쿼드 관리의 각 항목에 대한 자세한 설명은 다음 링크에서 확인 가능합니다.  
-<a href="https://github.com/wooksun/Project_BaseballSquad/blob/master/readme/images/squad.md" target="_blank">스쿼드 관리 설명 및 구동</a>
+<a href="https://github.com/wooksun/Project_BaseballSquad/blob/master/readme/Squad.md" target="_blank">스쿼드 관리 설명 및 구동</a>
 <br/>
