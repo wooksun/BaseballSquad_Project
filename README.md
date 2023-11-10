@@ -1,10 +1,10 @@
 # Project_BaseballSquad | 야구 스쿼드 메이커
 
 전공 JAVA 개인 프로젝트 입니다.
-> 2022.03. ~ 2022.06.
+📆 2022.03. ~ 2022.06.
 <br />
 
-## 프로젝트 소개
+## 📢 프로젝트 소개
  - 프로젝트 개발 배경 
    - JAVA 재학 중 Swing Component에 대하여 공부한 적이 있습니다.
    - Swing Component를 활용한 스쿼드 메이커를 구현하고자 이 프로젝트를 개발하게 되었습니다.
@@ -31,9 +31,9 @@
   <br/>
   <br/>
 
-## 프로젝트 기능
+## ⚙️ 프로젝트 기능
 
-### 최초 화면
+### 📺 최초 화면
 실행 시 최초 화면입니다.
 <div>
   <img src="readme/images/Login.png" />
@@ -47,7 +47,7 @@ ID 또는 PW 를 분실했을 경우 ID 찾기 · PW 찾기 기능을 통해 분
 <a href="https://github.com/wooksun/Project_BaseballSquad/blob/master/readme/Login.md" target="_blank">로그인 관련 설명 및 구동</a>
 <br/>
 
-### 메인
+### ⚾ 메인
 로그인 성공 시 메인으로 이동합니다.
 <div>
   <img src="readme/images/main.png" />
@@ -57,7 +57,7 @@ ID 또는 PW 를 분실했을 경우 ID 찾기 · PW 찾기 기능을 통해 분
 KBO 10개 구단 중 한 팀인 '키움'이라는 팀로고와 선수 관리 · 전술 관리 · 끝내기 버튼으로 구성되어 있습니다.
 <br/>
 
-### 선수 관리
+### 🏃 선수 관리
 선수 관리 화면입니다.
 <div>
   <img src="readme/images/player_management.png" />
@@ -72,7 +72,7 @@ KBO 10개 구단 중 한 팀인 '키움'이라는 팀로고와 선수 관리 · 
 <a href="https://github.com/wooksun/Project_BaseballSquad/blob/master/readme/Player.md" target="_blank">선수 관리 설명 및 구동</a>
 <br/>
 
-### 스쿼드 관리
+### ✨ 스쿼드 관리
 스쿼드 관리 화면입니다.  
 <div>
   <img src="readme/images/squad_management.png" />
